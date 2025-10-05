@@ -85,3 +85,5 @@ TCS Stock Trading Volume Over Time (Line Plot).
 
 
 TCS Stock Price Historical Data and 60-Day Linear Forecast (Line Plot).
+
+![Images ALt](https://github.com/Srujan-hash/TCS-Stock-Historical-Data-Analysis-and-Forecasting/blob/c30e45f2e89edb2d7d1dd461e5d2ed1bc8871a49/WhatsApp%20Image%202025-10-05%20at%2022.17.58_0f5f352f.jpg)
